@@ -25,4 +25,9 @@ In this repository, you'll find a collection of my projects and contributions th
 I'm excited to connect with fellow developers, enthusiasts, and anyone interested in the tech world. Whether it's discussing new ideas, collaborating on projects, or simply sharing knowledge, I'm all ears! Let's learn and grow together as we embark on this exciting journey of software development.
 
 Thank you for visiting my GitHub repository, and I hope you find something valuable here. Happy coding! 🚀
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,go,nodejs,postgres,mongodb,express,redis)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,go,nodejs,postgres,mongodb,express,redis" />
+  </a>
+</p>
