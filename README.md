@@ -12,13 +12,6 @@ My curiosity and eagerness to explore new realms of programming led me to dive i
 
 I am truly passionate about continuous learning and always seek opportunities to expand my knowledge and stay updated with the latest trends and advancements in the industry. I believe that the key to becoming a successful developer is to be open to new ideas, technologies, and methodologies. This mindset drives me to explore different tools and frameworks, as well as embrace best practices in software development.
 
-## My Commitment
-
-As a junior backend developer, I am dedicated to producing clean, maintainable, and efficient code that drives positive impacts in the projects I work on. I value teamwork and communication, as I believe they are essential components for a successful development process. I am always eager to collaborate and contribute to meaningful projects that make a difference.
-
-## What You'll Find Here
-
-In this repository, you'll find a collection of my projects and contributions that showcase my journey as a backend developer. I'm thrilled to share my experiences and progress with the tech community. Feel free to explore the code, provide feedback, and connect with me. I am open to collaboration and learning from others.
 
 ## Let's Connect!
 
